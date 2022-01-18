@@ -1,0 +1,4 @@
+.vscode/
+venv/
+Flask_Blog/__pycache__
+Flask_Blog/site.db
