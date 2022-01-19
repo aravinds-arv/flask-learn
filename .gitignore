@@ -1,3 +1,4 @@
 .vscode/
 venv/
 Flask_Blog/flaskblog/__pycache__
+flaskblog/site.db
