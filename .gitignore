@@ -1,3 +1,4 @@
+.env
 .vscode/
 venv/
 flaskblog/__pycache__
